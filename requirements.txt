@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+pdf2image
+pytesseract
+Pillow
+pdfplumber
+pandas
+transformers
+# Note: install torch separately (CPU wheel) as shown in README or install steps
